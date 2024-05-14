@@ -25,19 +25,11 @@
 
 <br>
 
-<div style="display: flex; flex-direction: column; align-items:center; justify-content: center; flex-wrap: wrap; align-content: center;">
-  <!-- <img style="flex: 1; width: 100%; max-width: 500px; margin: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Nardi&hide=html&count_private=true&theme=dracula" /> -->
-
-  <img style="flex: 1; width: 100%; max-width: 500px; margin: 5px" src="https://github-readme-stats.vercel.app/api?username=M-Nardi&hide=html&count_private=true&show_icons=true&theme=dracula" />
-</div>
-
-<br>
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/m-nardi/"><img alt="LinkedIn" src="https://media.licdn.com/dms/image/D4D03AQEDDdR7VPo6yg/profile-displayphoto-shrink_400_400/0/1685045936090?e=1721260800&v=beta&t=lVajIx-_lmy65TvCz2zuDMVnltsQjymZBtNBJJXOpww"></a>
+<a href="https://www.linkedin.com/in/M-Nardi/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-M-Nardi-blue?logo=Linkedin"></a>
 
 </p>
 
