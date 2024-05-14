@@ -19,6 +19,8 @@
 - ☁️ <a href="https://www.credly.com/badges/c1bcaccb-e9e7-440e-921a-7ccaf6528701/linked_in_profile">AWS Certified Cloud Practitioner</a>
 - ☁️ <a href="https://www.credly.com/badges/653e3307-8848-4583-af45-75954e034623/public_url">AWS Certified Solutions Architect – Associate</a>
 
+<br>
+
 <h3 align="left">
   📌  Living in <b>SP</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h3>
@@ -29,7 +31,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/M-Nardi/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-M-Nardi-blue?logo=Linkedin"></a>
+<a href="https://www.linkedin.com/in/M-Nardi/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Marcello_Nardi-blue?logo=Linkedin"></a>
 
 </p>
 
