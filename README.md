@@ -9,10 +9,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | Python | Java | Javascript | Typescript 
-- ✨&nbsp; .NET | Quarkus | PySpark | ReactJS
+- 💻 &nbsp; C# | Java | Python | Javascript | Typescript 
+- ✨&nbsp; .NET Core | Quarkus | PySpark | ReactJS
 - 🛢 &nbsp; MySQL | PostgreSQL | SQL Server | Hive
-- 🔧 &nbsp; Git | AWS Services
+- 🔧 &nbsp; AWS Services | IaC | DevSecOps
 
 <h3>♣️ Certifications</h3>
 
