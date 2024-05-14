@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Backend developer passionate about technology.
-- 🎓 &nbsp; Studied Computer Science at Universidade Presbiteriana Mackenzie (dez-2020 🎓).
+- 🎓 &nbsp; Studied Computer Science at Universidade Presbiteriana Mackenzie (dec-2020 🎓).
 - 💼 &nbsp; Currently working as software engineer consultant.
 - 🌱 &nbsp; Learning more about React.
 
@@ -24,8 +24,6 @@
 <h3 align="left">
   📌  Living in <b>SP</b>, <b>São Paulo</b>, <b>Brazil</b>  
 </h3>
-
-<br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
